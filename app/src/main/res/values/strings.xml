@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">TikTod</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="data_videourl">
+        <item>fadiljaidi </item>
+        <item>rara </item>
+        <item>sonyakisa8 </item>
+        <item>akumileaa </item>
+    </string-array>
+    <string-array name="data_username">
+        <item>fadiljaidi</item>
+        <item>itsandani</item>
+        <item>sonyakisa8</item>
+        <item>akumileaa</item>
+    </string-array>
+    <string-array name="data_caption">
+        <item>taraktakdung</item>
+        <item>#zoommyface rara banget ampe baju sm kerudungnya niih #fyp #nusadanrara #foryourpage</item>
+        <item>#cat#fyp</item>
+        <item>:p</item>
+    </string-array>
+    <string-array name="data_music">
+        <item>original sound - Fadil Jaidi</item>
+        <item>Hai Kamu Jangan Membisu - mndukq</item>
+        <item>original sound - Cat Sonya</item>
+        <item>Lost Frequencies - Are You With Me (REMIX) - DJ DESA</item>
+    </string-array>
+    <string-array name="data_likes">
+        <item>364.0K</item>
+        <item>195.0K</item>
+        <item>186.4K</item>
+        <item>244.3K</item>
+    </string-array>
+    <string-array name="data_comments">
+        <item>1945</item>
+        <item>1781</item>
+        <item>1268</item>
+        <item>2682</item>
+    </string-array>
+    <string-array name="data_forward">
+        <item>1436</item>
+        <item>5230</item>
+        <item>2593</item>
+        <item>9135</item>
+    </string-array>
+    <string-array name="data_avatar">
+        <item>drawable/fadilpp</item>
+        <item>drawable/itsandanipp</item>
+        <item>drawable/sonyakisapp</item>
+        <item>drawable/akumileapp</item>
+    </string-array>
+    <string-array name="data_music_img">
+        <item>drawable/fadilpp</item>
+        <item>drawable/itsandanipp</item>
+        <item>drawable/sonyakisapp</item>
+        <item>drawable/akumileapp</item>
+    </string-array>
+    <string-array name="data_music_bool">
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="data_isCheked">
+        <item>true</item>
+        <item>false</item>
+        <item>false</item>
+        <item>false</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.agustechindo.tiktod.ui.home.HomeFragment"
+        android:label=""
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/navigation_discover"
+        android:name="com.agustechindo.tiktod.ui.discover.DiscoverFragment"
+        android:label=""
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_post"
+        android:name="com.agustechindo.tiktod.ui.post.PostFragment"
+        android:label=""
+        tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_inbox"
+        android:name="com.agustechindo.tiktod.ui.inbox.InboxFragment"
+        android:label=""
+        tools:layout="@layout/fragment_inbox" />
+    <fragment
+        android:id="@+id/navigation_me"
+        android:name="com.agustechindo.tiktod.ui.me.MeFragment"
+        android:label=""
+        tools:layout="@layout/fragment_me" />
+</navigation>
